@@ -10,9 +10,7 @@
   <img src="https://img.shields.io/badge/Group-2-orange?style=for-the-badge" />
 </p>
 
-
 </div>
-
 
 **Infosys Springboard Virtual Internship Program 7.0**  
 **Batch:** Batch-2  
@@ -179,8 +177,6 @@ Contributions are welcome through the project repository:
 [AI-Powered Workforce Analytics & Talent Intelligence Dashboard](https://github.com/Infosys-Springboard-Internship-7-0/AI-Powered-Workforce-Analytics-Talent-Intelligence-Dashboard)
 
 ### Contribution Steps
-
-Detailed contribution instructions are available in [Contributing.md](Contributing.md).
 
 1. Fork the repository and create a feature branch.
 2. Review the project scope, milestones, and existing documentation.
