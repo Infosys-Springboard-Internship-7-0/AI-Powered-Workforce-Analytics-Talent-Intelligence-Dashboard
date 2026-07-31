@@ -199,7 +199,7 @@ The contributor roster is sourced from [contributors.json](contributors.json) an
 | Avatar | Name | Contact | Course | College | Address | GitHub Username |
 | --- | --- | --- | --- | --- | --- | --- |
 | <img src="https://github.com/Saurabhtbj1201.png?size=72" width="48" height="48" alt="Saurabh Kumar avatar" /> | Saurabh Kumar | 9798024301 | BCA | Galgotias University | Greater Noida, UP | [Saurabhtbj1201](https://github.com/Saurabhtbj1201) |
-| <img src="https://github.com/your_github_username.png?size=72" width="48" height="48" alt="your_name avatar" /> | your_name | mobile_number/email | your_course | your_college | your_address | [your_github_username](https://github.com/your_github_username) |
+| <img src="https://github.com/Ashuzade.png?size=72" width="48" height="48" alt="Aishwarya Zade avatar" /> | Aishwarya Zade | aishwaryazade2002@gmail.com | BTech | LSPGCOE Ratnagiri | Gadchiroli,Maharashtra | [Ashuzade](https://github.com/Ashuzade) |
 <!-- CONTRIBUTORS:END -->
 
 ---
