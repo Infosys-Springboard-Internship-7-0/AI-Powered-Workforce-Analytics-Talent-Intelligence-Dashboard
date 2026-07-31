@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Infosys-Springboard%207.0-007CC3?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Batch-2-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Group-1-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Group-2-orange?style=for-the-badge" />
 </p>
 
 
