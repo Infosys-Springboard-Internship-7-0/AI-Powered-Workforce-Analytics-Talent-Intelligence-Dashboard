@@ -1,4 +1,18 @@
+<div align="center">
+
 # AI-Powered Workforce Analytics & Talent Intelligence Dashboard
+
+### Transforming Workforce Data into Intelligent Business Decisions
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Infosys-Springboard%207.0-007CC3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Batch-2-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Group-1-orange?style=for-the-badge" />
+</p>
+
+
+</div>
+
 
 **Infosys Springboard Virtual Internship Program 7.0**  
 **Batch:** Batch-2  
@@ -147,11 +161,19 @@ If you expand this workspace into an implementation project, a clear structure c
 - Model outputs should be reviewed for fairness, explainability, and confidence calibration before stakeholder use.
 - Dashboard metrics should be aligned with business objectives and validated against historical outcomes.
 
+## 🛠 Technology Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,git,github,vscode,tensorflow"/>
+
+</p>
+
 ## License
 
 This project is released under the MIT License. See the [LICENSE](LICENSE) file for full terms.
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are welcome through the project repository:
 [AI-Powered Workforce Analytics & Talent Intelligence Dashboard](https://github.com/Infosys-Springboard-Internship-7-0/AI-Powered-Workforce-Analytics-Talent-Intelligence-Dashboard)
@@ -180,3 +202,8 @@ The contributor roster is sourced from [contributors.json](contributors.json) an
 | <img src="https://github.com/your_github_username.png?size=72" width="48" height="48" alt="your_name avatar" /> | your_name | mobile_number/email | your_course | your_college | your_address | [your_github_username](https://github.com/your_github_username) |
 <!-- CONTRIBUTORS:END -->
 
+---
+
+<div align="center">
+Made with ❤️ by the Infosys Springboard Internship 7.0 Team
+</div>
