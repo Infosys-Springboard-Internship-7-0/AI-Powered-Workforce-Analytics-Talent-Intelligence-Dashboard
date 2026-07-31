@@ -1,0 +1,20 @@
+{
+  "contributors": [
+    {
+      "name": "Saurabh Kumar",
+      "contact": "9798024301",
+      "course": "BCA",
+      "college": "Galgotias University",
+      "address": "Greater Noida, UP",
+      "github_username": "Saurabhtbj1201"
+    },
+    {
+      "name": "your_name",
+      "contact": "mobile_number/email",
+      "course": "your_course",
+      "college": "your_college",
+      "address": "your_address",
+      "github_username": "your_github_username"
+    }
+  ]
+}
