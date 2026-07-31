@@ -16,7 +16,7 @@
 
 **Infosys Springboard Virtual Internship Program 7.0**  
 **Batch:** Batch-2  
-**Project Group:** Group 1  
+**Project Group:** Group 2  
 **Mentor:** Neha mam  
 **Mentor Email:** springboardmentor5262@gmail.com
 
