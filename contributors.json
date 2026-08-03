@@ -17,12 +17,20 @@
       "github_username": "Ashuzade"
     },
     {
-  "name": "Pratyush Sarkar",
-  "contact": "pratyush2003sarkar@gmail.com",
-  "course": "B.Tech CSE",
-  "college": "University of Engineering and Management, Kolkata",
-  "address": "Kolkata,West Bengal",
-  "github_username": "Pratyush562003"
-}
+      "name": "Pratyush Sarkar",
+      "contact": "pratyush2003sarkar@gmail.com",
+      "course": "B.Tech CSE",
+      "college": "University of Engineering and Management, Kolkata",
+      "address": "Kolkata,West Bengal",
+      "github_username": "Pratyush562003"
+    },
+    {
+      "name": "Sanjivani Gurav",
+      "contact": "sanjivanigurav106@gmail.com",
+      "course": "Msc",
+      "college": "Vivekanand College, Kolhapur",
+      "address": "Pune, Maharashtra",
+      "github_username": "Sanjivani0101"
+    }
   ]
 }
