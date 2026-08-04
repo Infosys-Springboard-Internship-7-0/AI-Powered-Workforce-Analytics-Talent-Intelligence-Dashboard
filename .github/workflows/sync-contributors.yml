@@ -1,0 +1,40 @@
+name: Sync contributor roster
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'contributors.json'
+      - 'scripts/sync_contributors_readme.py'
+      - 'README.md'
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'contributors.json'
+      - 'scripts/sync_contributors_readme.py'
+      - 'README.md'
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Refresh contributor section
+        run: python scripts/sync_contributors_readme.py
+
+      - name: Commit README updates
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'docs: sync contributor roster from contributors.json'
+          file_pattern: 'README.md'
