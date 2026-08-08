@@ -13,6 +13,7 @@ class DatasetService:
     def _resolve_path(self) -> Path:
         candidates = [
             self.dataset_path,
+            settings.project_root / 'Data_Cleaning' / 'CleanedDataset.csv',
             settings.project_root / 'raw-DATASET.csv',
             settings.project_root / 'DATASET.csv',
             settings.project_root / 'backend' / 'data' / 'dataset.csv',

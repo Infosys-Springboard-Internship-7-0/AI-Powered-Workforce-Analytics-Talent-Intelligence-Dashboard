@@ -8,7 +8,7 @@ from .file_store import JsonFileStore
 
 class JsonStateService:
     def __init__(self) -> None:
-        self.store = JsonFileStore(settings.project_root / 'backend' / 'data')
+        self.store = JsonFileStore(settings.state_dir)
 
     def load_admins(self) -> list[dict[str, str]]:
         return self.store.read('admins.json', [{'name': 'Platform Admin', 'email': settings.admin_email, 'role': 'admin'}])
