@@ -31,6 +31,14 @@
       "college": "Vivekanand College, Kolhapur",
       "address": "Pune, Maharashtra",
       "github_username": "Sanjivani0101"
+    },
+    {
+      "name": "Disha Pramanick",
+      "contact": "pramanickdisha88@gmail.com",
+      "course": "BCA",
+      "college": "B.P. Poddar Institute of Management & Technology, Kolkata",
+      "address": "Kolkata, West Bengal",
+      "github_username": "01Dishapramanick"
     }
   ]
 }
